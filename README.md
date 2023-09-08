@@ -8,6 +8,7 @@ Generates password having special characters, digits, uppercase and lowercase le
 
 
 ### -> Password_strength_checker.py
+![image](https://github.com/lavikatiyar/Password-Projects/assets/42214458/05ec47c5-41e2-457d-aeea-ea9e1c111435)
 
 
 
