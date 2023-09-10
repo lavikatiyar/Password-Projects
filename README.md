@@ -12,6 +12,7 @@ Generates password having special characters, digits, uppercase and lowercase le
 ![image](https://github.com/lavikatiyar/Password-Projects/assets/42214458/845d40b6-dbd7-4ba1-af09-b79e27391038)
 
 
+
 ### -> Password_generator_random_3_ascii.py
 ![image](https://github.com/lavikatiyar/Password-Projects/assets/42214458/20bcad36-477b-4c11-8587-e63e72905a6c)
 
