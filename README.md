@@ -1,6 +1,7 @@
 # Random-Password-Generator-1
 Generates password having special characters, digits, uppercase and lowercase letters. 
 
+
 ## Output 
 
 ### -> Password_Generator_random.py
